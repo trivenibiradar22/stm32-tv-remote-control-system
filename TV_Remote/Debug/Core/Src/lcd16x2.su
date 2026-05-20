@@ -1,0 +1,11 @@
+../Core/Src/lcd16x2.c:30:20:_delay	16	static
+../Core/Src/lcd16x2.c:33:13:_pulse_en	8	static
+../Core/Src/lcd16x2.c:41:13:_send_nibble	16	static
+../Core/Src/lcd16x2.c:51:13:_send_byte	16	static
+../Core/Src/lcd16x2.c:72:6:lcd16x2_init	32	static
+../Core/Src/lcd16x2.c:110:6:lcd16x2_clear	8	static
+../Core/Src/lcd16x2.c:116:6:lcd16x2_home	8	static
+../Core/Src/lcd16x2.c:126:6:lcd16x2_setCursor	24	static
+../Core/Src/lcd16x2.c:133:6:lcd16x2_putChar	16	static
+../Core/Src/lcd16x2.c:138:6:lcd16x2_print	16	static
+../Core/Src/lcd16x2.c:148:6:lcd16x2_printf	48	static
